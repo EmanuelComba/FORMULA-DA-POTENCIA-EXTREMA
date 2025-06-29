@@ -70,7 +70,7 @@ var vTurbOriginalPlayer = {
                 "position": "bc",
                 "link": "https://pagamento-formula-da-potencia-extre.vercel.app/",
                 "range": {
-                    "start": 30,
+                    "start": 0,
                     "finish": 1501
                 },
                 "color": "#26a201",
